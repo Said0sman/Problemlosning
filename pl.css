@@ -66,7 +66,7 @@ footer {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: aquamarine;
+    background-color: rgb(197, 196, 187);
     text-align: center;
 }
 
@@ -80,7 +80,8 @@ footer {
 @media only screen and (min-width: 768px) {
     /* For desktop: */
     body {
-        background-color: blue;
+       
+        background-image: linear-gradient(315deg, #f7f7f7 0%, #e7decd 74%);
     }
 
     header {
